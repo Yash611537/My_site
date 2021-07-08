@@ -1,0 +1,152 @@
+/* em = 16 pixels
+    rem = root em = 0 
+*/
+body {
+    margin: 0px;
+    text-align: center;    
+    font-family: cursive;
+    font-size:20px;
+    background-color: #F9F9F9;
+}
+
+.awd {
+    font-size:2.5rem;
+    color: #66BFBF;
+
+    font-weight: normal;
+    
+}
+
+p {
+    color: #40514E;
+    line-height: 2;    
+}
+
+
+.line {
+    text-decoration: underline;
+    line-height: 2;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    /* font-family: 'Dancing Script', cursive; */
+    font-family: 'Pacifico', cursive;
+    font-size:562.5%;
+    color:#66BFBF;    ;
+
+
+}
+
+.bottom-cloud {
+    position: absolute;
+}
+
+.top-cloud {
+    position: absolute;
+    right:250px;
+}
+
+.top-container {
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+    width: 100%;
+
+}
+
+.middle-container {
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 20px;
+}
+
+.my_pic {
+    height: 250px;
+    width: 250px;
+    margin: 100px auto 100px auto;
+}
+
+h3, a, h2 {
+    color:#66BFBF;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+
+.skill-img1 {
+    width: 30%;
+    float: left;
+    padding-right:30px;
+}
+
+.skill-img2 {
+    width: 30%;
+    float:right;
+    padding-left:30px;
+}
+
+.btn {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 20px;
+    background-color: #2BABAB;
+    text-shadow: 1px 1px 20px #000000;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin: 0px auto 40px auto;
+}
+
+hr {
+    border: dotted grey 6px;
+    border-bottom: none;
+    width:4%;
+    margin: 100px auto 100px auto;
+}
+
+.footer-link {
+    color: #11999E;
+    padding:50px;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-family: 'Merriweather', serif;
+    padding-top: 20px;
+    font-size: 15px;
+}
+
+h2 {
+    padding-bottom: 10px;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.contact_message {
+    width: 50%;
+    margin: 40px auto 60px auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
